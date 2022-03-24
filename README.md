@@ -24,4 +24,4 @@ The site is made using HTML,CSS and Javascript.
 ## Version History
 
 * 0.1
-    * Initial Release
+    * Initial Release - https://hellthrall2000.github.io/Captcha.github.io/
